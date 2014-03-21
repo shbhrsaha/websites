@@ -1,7 +1,7 @@
 
-INTRODUCTION
-============
-These are the Python scripts used in the "Who at Princeton has a web site?" project at http://www.princeton.edu/~saha/websites/
+websites
+===
+Scripts used in the "Who at Princeton has a web site?" project at http://www.princeton.edu/~saha/websites/
 
 USAGE
 =====
